@@ -1,0 +1,20 @@
+{
+  "name": "easydata",
+  "version": "1.0.0",
+  "description": "Basic saving system in Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "scriptbased",
+  "license": "UNLICENCESED",
+  "keywords": [
+    "saving",
+    "simple",
+    "save",
+    "filesystem",
+    "files",
+    "easydata"
+  ],
+  "dependencies": {}
+}
