@@ -1,4 +1,4 @@
-## EasySave
+## EasyData
 
 A module created to save basic data easily and fast.
 
@@ -6,9 +6,9 @@ A module created to save basic data easily and fast.
 ### Example
 
 ```JavaScript
-const easysave = require('easysave');
+const easydata = require('easydata');
 
-let saver = new easysave(/* options */)
+let saver = new easydata(/* options */)
 
 /* Options {
     compress: true | false -- Whether or not it should compress data saved, defaults to "true"
