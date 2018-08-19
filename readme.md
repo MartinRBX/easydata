@@ -1,6 +1,6 @@
 ## EasyData
 
-A module created to save basic data easily and fast.
+A module created to save data easily and fast.
 
 
 ### Example
